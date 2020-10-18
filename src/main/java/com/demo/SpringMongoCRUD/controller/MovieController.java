@@ -13,8 +13,6 @@ import java.util.Optional;
 
 @RestController
 public class MovieController {
-    //PUT       /movie/{id}
-
 
     @Autowired
     private MovieRepository movieRepo;
